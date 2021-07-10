@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\DELL\source\repos\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\DELL\source\repos\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache
