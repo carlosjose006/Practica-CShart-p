@@ -40,7 +40,7 @@ namespace Metodos
 
             // Metodos con parametros 
 
-            int num1, num2;
+            int num1, num2,num3;
 
             Console.WriteLine("Introduce el primer numero");
             num1 = Convert.ToInt32(Console.ReadLine());
