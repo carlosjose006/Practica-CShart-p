@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.exe
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.deps.json
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.runtimeconfig.json
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.dll
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\bin\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.pdb
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.dll
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.pdb
+C:\Users\DELL\source\repos\MetodosConParametrosOpcionales\obj\Debug\netcoreapp3.1\MetodosConParametrosOpcionales.genruntimeconfig.cache
