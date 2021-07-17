@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.exe
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.deps.json
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.runtimeconfig.json
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.dll
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\bin\Debug\netcoreapp3.1\IntroPOO.pdb
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.AssemblyInfo.cs
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.dll
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.pdb
+C:\Users\DELL\source\repos\IntroPOO\IntroPOO\obj\Debug\netcoreapp3.1\IntroPOO.genruntimeconfig.cache

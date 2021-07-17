@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.exe
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.deps.json
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.runtimeconfig.json
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.dll
+C:\Users\DELL\source\repos\Exepciones\Exepciones\bin\Debug\netcoreapp3.1\Exepciones.pdb
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.dll
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.pdb
+C:\Users\DELL\source\repos\Exepciones\Exepciones\obj\Debug\netcoreapp3.1\Exepciones.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\StreamReader\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\StreamReader\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StreamReader\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StreamReader\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.csproj.CoreCompileInputs.cache
