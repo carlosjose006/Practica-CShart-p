@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.exe
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.deps.json
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.runtimeconfig.json
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.dll
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\bin\Debug\netcoreapp3.1\ArrayDeParametro.pdb
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.dll
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.pdb
+C:\Users\DELL\source\repos\ArrayDeParametro\ArrayDeParametro\obj\Debug\netcoreapp3.1\ArrayDeParametro.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.exe
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.deps.json
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.runtimeconfig.json
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.dll
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\bin\Debug\netcoreapp3.1\HerramientasVS.pdb
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.AssemblyInfo.cs
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.dll
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.pdb
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.genruntimeconfig.cache
+C:\Users\DELL\source\repos\HerramientasVS\HerramientasVS\obj\Debug\netcoreapp3.1\HerramientasVS.csproj.AssemblyReference.cache

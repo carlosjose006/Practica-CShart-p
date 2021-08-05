@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.exe
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.deps.json
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.runtimeconfig.json
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.dll
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\bin\Debug\netcoreapp3.1\UsoCoche.pdb
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.dll
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.pdb
+C:\Users\DELL\source\repos\UsoCoche\UsoCoche\obj\Debug\netcoreapp3.1\UsoCoche.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.exe
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.deps.json
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.runtimeconfig.json
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.dll
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\bin\Debug\netcoreapp3.1\EjmploArray.pdb
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.dll
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.pdb
+C:\Users\DELL\source\repos\EjmploArray\EjmploArray\obj\Debug\netcoreapp3.1\EjmploArray.genruntimeconfig.cache
